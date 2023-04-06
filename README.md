@@ -1,8 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=56B6C2&background=282C3400&center=true&vCenter=true&lines=Hey!+I+am+Tom+SCHIAVI;I+am+a+junior+ROR+developer;I+am+in+work-study+basis"/>
- 
- <p>- <i>A web developer student and a aspiring web developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
@@ -102,14 +100,6 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(tomschiavi);....+s.explore();....+s.learn()"/>
 
-
-
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tomschiavi}/count.svg" /></p> 
-<br>
-</div>
 
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connect with Me
